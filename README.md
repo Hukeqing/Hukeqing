@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hukeqing)](https://github.com/Hukeqing)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hukeqing)](https://github.com/Hukeqing)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hukeqing&langs_count=10&layout=compact)](https://github.com/Hukeqing)
 
 <div>
   <a href="https://github.com/Hukeqing" target="_blank">
