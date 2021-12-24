@@ -1,4 +1,10 @@
-# Hi I'm Mauve, a programmer who loves the open source community
+# Hi I'm Mauve
+
+I'm
+ - ❤️ a programmer who loves the open source community
+ - 💼 a back-end engineer who working for the Taobao subsidiary of [Alibaba Group](https://www.alibaba.com) now
+ - 📈 built some interesting project on GitHub
+ - 💻 C/C++ and Java for my daily work
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hukeqing)](https://github.com/Hukeqing)
 
