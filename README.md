@@ -1,14 +1,22 @@
 # Hi I'm Mauve
 
 I'm
+
  - ❤️ a programmer who loves the open source community
  - 💼 a back-end engineer who working for the Taobao subsidiary of [Alibaba Group](https://www.alibaba.com) now
  - 📈 built some interesting project on GitHub
  - 💻 C/C++ and Java for my daily work
+ - 😄 wanna be a geek
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hukeqing)](https://github.com/Hukeqing)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hukeqing&langs_count=10&layout=compact)](https://github.com/Hukeqing)
+<div>
+  <a href="https://github.com/Hukeqing" target="_blank">
+    <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=hukeqing" />
+  </a>
+ 
+  <a href="https://github.com/Hukeqing" target="_blank">
+    <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hukeqing&langs_count=10&layout=compact" />
+  </a>
+</div>
 
 <div>
   <a href="https://github.com/Hukeqing" target="_blank">
@@ -29,14 +37,4 @@ I'm
 
 </div>
 
-# I am
-
- - love ACG
- - a fan of kEy
- - always be a student
- - a Visual Novel player
- - occasionally play acm
- - play unity or something
- - a staff of Alibaba
- - wanna to be geek
-
+For more information about me, please [click here](https://hukeqing.github.io/about/)
