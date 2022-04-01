@@ -13,7 +13,7 @@
 <p align="center">
  <ul>
   <li>❤️ a programmer who loves the open source community</li>
-  <li>💼 a back-end engineer who working for the Taobao subsidiary of [Alibaba Group](https://www.alibaba.com) now</li>
+  <li>💼 a back-end engineer who working for the Taobao subsidiary of <a href="https://www.alibaba.com">Alibaba Group</a> now</li>
   <li>📈 built some interesting project on GitHub</li>
   <li>💻 C/C++ and Java for my daily work</li>
   <li>😄 wanna be a geek</li>
