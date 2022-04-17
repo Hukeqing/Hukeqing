@@ -23,12 +23,12 @@
   <tr>
     <th>
       <a href="https://github.com/Hukeqing" target="_blank">
-        <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=hukeqing" />
+        <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=hukeqing&theme=dracula" />
       </a>
     </th>
     <th>
       <a href="https://github.com/Hukeqing" target="_blank">
-        <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hukeqing&langs_count=10&layout=compact" />
+        <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hukeqing&langs_count=10&layout=compact&theme=dracula" />
       </a>
     </th>
   <tr>
