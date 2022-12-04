@@ -14,9 +14,10 @@
  <ul>
   <li>💼 a back-end engineer who working for the <a href="https://tech.taobao.org">Greater Taobao Technology</a> of <a href="https://alibabagroup.com/cn/global/home">Alibaba Group</a> now</li>
   <li>❤️ a programmer who loves the open source community</li>
-  <li>📈 built some interesting project on GitHub</li>
-  <li>💻 C/C++ and Java for my daily work</li>
-  <li>😄 wanna be a geek</li>
+  <li>📈 building some interesting project on GitHub</li>
+  <li>💻 using C/C++ and Java for my daily work</li>
+  <li>😄 on the way to be geek</li>
+  <li>🏳️‍🌈 not a LGBT but believe they'll shine in the sun</li>
 </p>
 
 <table style="width:100%;" align="center">
