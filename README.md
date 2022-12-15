@@ -17,7 +17,6 @@
   <li>📈 building some interesting project on GitHub</li>
   <li>💻 using C/C++ and Java for my daily work</li>
   <li>😄 on the way to be geek</li>
-  <li>🏳️‍🌈 not a LGBT but believe they'll shine in the sun</li>
 </p>
 
 <table style="width:100%;" align="center">
