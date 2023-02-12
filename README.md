@@ -4,8 +4,8 @@
   Blog
   </a>
   ·
-  <a href="https://t.me/ShiroNaruse">
-  Telegram
+  <a href="https://t.me/+5TW6mXh_do05NTNl">
+  Telegram Channel
   </a>
 </p>
 
