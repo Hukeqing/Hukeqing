@@ -46,7 +46,7 @@
   </a>
 
   <a href="https://twitter.com/realMauve" target="_blank">
-    <img style="display：inline-block;" src="https://img.shields.io/badge/dynamic/json?label=Twitter&labelColor=282c34&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3DrealMauve&color=1da1f2&logo=twitter&longCache=true" />
+    <img style="display：inline-block;" src="https://img.shields.io/badge/dynamic/json?label=Twitter&labelColor=282c34&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3Dtm_lavender&color=1da1f2&logo=twitter&longCache=true" />
   </a>
  
   <a href="https://music.163.com/#/user/home?id=489685730" target="_blank">
