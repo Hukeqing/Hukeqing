@@ -13,7 +13,7 @@
 <p align="center">
  <ul>
   <li>💼 a back-end engineer who working for the <a href="https://tech.taobao.org">Greater Taobao Technology</a> of <a href="https://alibabagroup.com/cn/global/home">Alibaba Group</a> now</li>
-  <li>❤️ a programmer who loves the open source community</li>
+  <li>❤️ a programmer who loves the free software and the open source community</li>
   <li>📈 building some interesting project on GitHub</li>
   <li>💻 using C/C++ and Java for my daily work</li>
   <li>😄 on the way to be geek</li>
@@ -35,7 +35,8 @@
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/hukeqing" target="_blank">
-        <img style="display: inline-block" src="https://visitor-badge.glitch.me/badge?page_id=hukeqing.hukeqing&style=square&color=0088cc">
+<!--         <img style="display: inline-block" src="https://visitor-badge.glitch.me/badge?page_id=hukeqing.hukeqing&style=square&color=0088cc"> -->
+        <img style="display: inline-block" src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=github.hukeqing&key=profile&label=visitors">
       </a>
       <a href="https://github.com/Hukeqing" target="_blank">
         <img style="display: inline-block;" src="https://img.shields.io/badge/dynamic/json?label=GitHub%20Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DHukeqing&labelColor=282c34&color=181717&logo=github&longCache=true" />
