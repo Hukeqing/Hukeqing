@@ -20,7 +20,7 @@
   <tr>
     <th>
       <a href="https://github.com/Hukeqing" target="_blank">
-        <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=hukeqing&theme=dracula" />
+        <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=hukeqing&theme=dracula&show_icons=true" />
       </a>
     </th>
     <th>
