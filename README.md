@@ -1,12 +1,7 @@
-<h1 align="center">Ciallo～(∠・ω＜)⌒☆，I'm</h1>
+<h1 align="center">I hope one day we can recognize each other in the sun</h1>
 
 <p align="center">
-  <a href="https://hukeqing.github.io/">
-  Blog
-  </a>
-</p>
-
-<p align="center">
+ <h3 align="center">I'm</h3>
  <ul>
   <li>💼 a back-end engineer who working for the <a href="https://tech.taobao.org">Greater Taobao Technology</a> of <a href="https://alibabagroup.com/cn/global/home">Alibaba Group</a> now</li>
   <li>🎈 a retired acmer</li>
@@ -54,3 +49,10 @@
       </a>
     </td> 
 </table>
+
+
+<p align="center">
+  <a href="https://hukeqing.github.io/">
+  Blog
+  </a>
+</p>
