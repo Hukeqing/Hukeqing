@@ -7,8 +7,9 @@
   <li>🎈 a retired acmer</li>
   <li>❤️ a programmer who loves the free software and the open source community</li>
   <li>📈 building some interesting project on GitHub</li>
-  <li>💻 using C/C++ and Java for my daily work</li>
+  <li>💻 using C/C++/Rust/Nodejs and Java for my daily work</li>
   <li>👨‍💻 on the way to be geek</li>
+ </ul>
 </p>
 
 <table style="width:100%;" align="center">
